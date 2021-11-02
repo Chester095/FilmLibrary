@@ -1,7 +1,7 @@
-# Timofeev SS 02/11/2021
-## **FilmLibrary** - Приложение для поиска фильмов, по которому будут сдаваться все практические задания.
+# Timofeev SS  -  02.11.2021
+## **FilmLibrary** - An application for finding movies, according to which all practical tasks will be given.
 ---
 ### Functionality:
-> 1.
+1. Dummy
 > 2.
 > 3.
